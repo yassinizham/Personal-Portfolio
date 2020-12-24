@@ -1,0 +1,39 @@
+body 
+	{
+		background-color: #ACD0FF;
+	}
+ 
+h1
+	{
+		font-family: Lucida Handwriting;
+		font-size: 30px;
+		color:purple;
+		border:solid;
+	}
+
+p
+	{
+		background-color: white;
+		font-size: 30px;
+		text-align: center;
+		color: indianred;
+		font-family:Permanent Marker;
+		padding: 15px;
+	}
+
+a:link, a:visited
+	{
+		background-color: purple;
+		color: gold;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 15px; 
+	}
+
+a:hover, a:active
+{
+	background-color: white;
+	color: black;
+}
